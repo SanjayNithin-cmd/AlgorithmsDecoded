@@ -15,9 +15,8 @@ Welcome to **Algorithms Decoded**, a personal learning journey where I explore a
 
 ## 🛠 Languages Used
 
-- 💻 C – For low-level understanding and performance-focused solutions.
 - 🐍 Python – For quick prototyping and simplicity.
-- ☕ Java – For object-oriented approach and industry practices.
+- ☕ Java – For Performance optimization
 
 ---
 
